@@ -1,0 +1,11 @@
+Barry|Allen|Flash|correr|cadarço|Star city|policial forense
+Bruce|Banner|Hulk|forte para caralho|viuva negra|nova york|fisico
+Brune|Wayne|Batman|rico|pobre|Gothan city|magnata
+Diana|Prince|Mulher Maravilha|força para caralho|Steve turner|Themyscira|guerreira
+Doug|Funny|Homem Codorna|Cinto na cabeça|Paty Maionese|States|estudante
+Hal|Jordan|Lanterna Verde|Anel|Lanterna amarelo|Coast City|piloto
+James|Logan|Wolverine|fator cura|jean gray|Canada|alcoolatra
+Steve|Rogers|Capitão América|super soldado|freezer|Nova York|soldado
+T'challa|King|Pantera Negra|roupa|sem a roupa|Wakanda|rei
+Virgil|Hawkins|Super Choque|choque|borracha|Dakota|estudante
+Wade|Wilson|Deadpool|fator de cura|maluco|Canada|mercenario
